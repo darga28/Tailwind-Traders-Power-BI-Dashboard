@@ -39,7 +39,7 @@ The primary goal of this project was to provide actionable insights into Tailwin
    - Configured the mobile view for optimized access on all devices.
    - Set up an alert on the KPI visual for Gross Revenue, ensuring real-time monitoring of critical business metrics.
 
-[**View the Live Dashboard on Power BI Service**](https://app.powerbi.com/links/HjlOYqOyhQ?ctid=c15b6c02-fcb2-4974-a518-d2dce9300b4b&pbi_source=linkShare)
+[**View the Live Dashboard on Power BI Service**](https://app.powerbi.com/groups/me/dashboards/bf187368-a6ab-4142-92d4-c2ac763470e4?ctid=c15b6c02-fcb2-4974-a518-d2dce9300b4b&pbi_source=linkShare)
 
 ## Key Insights
 
